@@ -4,7 +4,7 @@
   <groupId>com.fct</groupId>
   <artifactId>Jenkins</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>V1</version>
   <name>Jenkins</name>
   <url>http://maven.apache.org</url>
   <dependencies>
